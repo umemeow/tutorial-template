@@ -32,3 +32,4 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+! 경고 가능한가?
